@@ -1,0 +1,4 @@
+---Your Appid
+appid: 10000
+install: [python-sce, uwsgi]
+start: $PYTHON_UWSGI_START
